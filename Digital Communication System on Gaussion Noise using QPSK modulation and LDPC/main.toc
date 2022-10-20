@@ -1,0 +1,8 @@
+\babel@toc {english}{}\relax 
+\beamer@sectionintoc {1}{Communication Age}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{SOTA Solution}{5}{0}{1}
+\beamer@sectionintoc {2}{Another section}{6}{0}{2}
+\beamer@subsectionintoc {2}{1}{Subsection with math}{8}{0}{2}
+\beamer@sectionintoc {3}{Section without frame}{9}{0}{3}
+\beamer@subsectionintoc {3}{1}{Subsection with table}{10}{0}{3}
+\beamer@subsectionintoc {3}{2}{Subsection with minipages}{11}{0}{3}
