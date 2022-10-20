@@ -166,101 +166,81 @@
 \subsection{\subsectiontitle}
 \begin{frame}{\subsectiontitle}
     \begin{itemize}
-        \itemj Justified text item with reference \citet{goodfellow2014generative} 
-        \item This is some unjustified text in the frame. This is some unjustified text in the frame. This is some unjustified text in the frame. This is some unjustified text in the frame. This is some unjustified text in the frame.
+        \item Analog modulation methods:
+        \begin{itemize}
+        	\item Amplitude Modulation (AM): DSB, SSB, VSB, etc
+        	\item Angle Modulation (AM): FM, PM, etc
+        \end{itemize} 
+        \item Digital modulation methods:
+        \begin{itemize}
+        	\item Phase-shift keying: PSK
+        	\item Frequency-shift keying: FSK
+        	\item Amplitude-shift keying: ASK
+        	\item Quadrature amplitude modulation: QAM
+        \end{itemize} 
     \end{itemize}
     
-    % Include figure with caption
-    % \includefigure{gan_architecture.png}{Figure caption here}
-        % Include figure with caption
-    \begin{figure}
-    \centering
-        \includegraphics[width=.5\textwidth]{gan_architecture.png}
-        \caption{GAN structure}
-        \label{fig:gan_structure}
-    \end{figure}
 \end{frame}
 
 % Section name and highlighted ToC
-\renewcommand{\sectiontitle}{Another section}
+\renewcommand{\sectiontitle}{Methodology}
 \section{\sectiontitle}
 \customToC{currentsection,hideothersubsections}{}
 
 \begin{frame}{\sectiontitle}
-    This is some text in the first frame. This is some text in the first frame. This is some text in the first frame.
-\end{frame}
-
-% Section name and highlighted ToC
-\renewcommand{\subsectiontitle}{Subsection with math}
-\subsection{\subsectiontitle}
-% \customToC{currentsection,hideothersubsections}{}
-
-\begin{frame}{\subsectiontitle}
-    This is some text in the first frame. This is some text in the first frame. This is some text in the first frame.
+    Construct a simulated communication system working on white noise environment using:
     \begin{itemize}
-    \itemj This is some text in the first frame. This is some text in the first frame. This is some text in the first frame.
-    \itemj Example formula: $$d^2 = ||\mu_1 – \mu_2||^2 + Tr(C_1 + C_2 – 2\sqrt{C_1*C_2})$$ 
+    	\item Quadrature Phase Shift Keying (QSPK) modulation
+    	\item Low Density Parity Check (LDPC) code
+    	\item BER 
     \end{itemize}
 \end{frame}
 
-\renewcommand{\sectiontitle}{Section without frame}
+% Section name and highlighted ToC
+\renewcommand{\subsectiontitle}{QPSK}
+\subsection{\subsectiontitle}
+%\customToC{currentsection,hideothersubsections}{}
+
+\begin{frame}{\subsectiontitle}
+    
+\end{frame}
+
+\renewcommand{\subsectiontitle}{LDPC}
+\subsection{\subsectiontitle}
+%\customToC{currentsection,hideothersubsections}{}
+
+\begin{frame}{\subsectiontitle}
+	
+\end{frame}
+
+\renewcommand{\subsectiontitle}{White Noise}
+\subsection{\subsectiontitle}
+%\customToC{currentsection,hideothersubsections}{}
+
+\begin{frame}{\subsectiontitle}
+	
+\end{frame}
+
+\renewcommand{\sectiontitle}{Experiement}
 \section{\sectiontitle}
 \customToC{currentsection,hideothersubsections}{}
 
 % Section name and highlighted ToC
-\renewcommand{\subsectiontitle}{Subsection with table}
+\renewcommand{\subsectiontitle}{Experimental Setup}
 \subsection{\subsectiontitle}
 
 \begin{frame}{\subsectiontitle}
-\begin{table}[ht]
-\caption{default}
-\begin{center}
-% \rowcolors{1}{}{red}
-    \begin{tabular}{| c | c | c | c | c |}
-    \hline
-    \textbf{Dataset} & \textbf{No. Classes} & \textbf{Image Size} & \textbf{No.Images $S_t$} & \textbf{No.Images $S_v$} \\
-    \hline
-    MNIST & 10 & 28×28 & 60k & 10k \\
-    \hline
-    CIFAR10 & 10 & 32×32 & 50k & 10k \\
-    \hline
-    CIFAR100 & 100 & 32×32 & 50k & 10k \\
-    \hline
-    ImageNet1k & 1000 & 64×64/128×128 & 1.3M & 50k \\
-    \hline
-\end{tabular}
-\end{center}
-\end{table}
+
 \end{frame}
 
 % Section name and highlighted ToC
-\renewcommand{\subsectiontitle}{Subsection with minipages}
+\renewcommand{\subsectiontitle}{Experimental Result}
 \subsection{\subsectiontitle}
 % \customToC{currentsection,hideothersubsections}{}
 
 % Slide with four figures
 \begin{frame}{\subsectiontitle}
-    \begin{figure}[ht]
-        \begin{minipage}[b]{0.45\linewidth}
-            \centering
-            \includegraphics[width=\textwidth]{cifar10.png}
-            \caption{Results on CIFAR10}
-            \label{fig:cifar10}
-        \end{minipage}
-        \hspace{0.5cm}
-        \begin{minipage}[b]{0.45\linewidth}
-            \centering
-            \includegraphics[width=\textwidth]{cifar100.png}
-            \caption{Results on CIFAR100}
-            \label{fig:cifar100}
-        \end{minipage}
-        \begin{minipage}[b]{0.45\linewidth}
-            \centering
-            \includegraphics[width=\textwidth]{imagenet1k.png}
-            \caption{Results on ImageNet 1k}
-            \label{fig:imagenet1k}
-        \end{minipage}
-    \end{figure}
+	
 \end{frame}
 
 % Import bibliography from file sample.bib
