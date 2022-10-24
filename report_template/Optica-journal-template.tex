@@ -1,0 +1,66 @@
+\documentclass[9pt,twocolumn,twoside]{opticajnl}
+%% Please use 11pt if submitting to AOP
+% \documentclass[11pt,twocolumn,twoside]{opticajnl}
+
+\journal{ol} % Choose journal (ao,jocn,josaa,josab,ol,optica,pr)
+
+%See template introduciton for guidance on setting shortarticle option
+\setboolean{shortarticle}{true}
+% true = letter/tutorial
+% false = research/review article
+% (depending on journal)
+
+% ONLY applicable for Optica shortarticle types:
+% When \journal{optica} and \setboolean{shortarticle}{true}
+% then \setboolean{memo}{true} will print "Memorandum" on title page header
+% Otherwise header will remain as "Letter"
+% \setboolean{memo}{true}
+
+\usepackage{lineno}
+\linenumbers
+
+
+\title{Feature Descriptor for Endoscopy feature extraction: A Review}
+
+\author[1]{Hoang Khoi Do}
+%\author[2,*]{Author Two}
+%\author[1]{Author Three}
+
+\affil[1]{School of Electrical and Electronics, University of Science and Technology, Hanoi 10000, Vietnam}
+%\affil[2]{School of Science, University of Technology, 2000 J St. NW, Washington DC, 20036}
+%\affil[3]{School of Optics, University of Technology, 2000 J St. NW, Washington DC, 20036}
+
+\affil[*]{Corresponding author: khoi.dh200332@sis.hust.edu.vn}
+
+\begin{abstract}
+Abstract
+\end{abstract}
+
+%\setboolean{displaycopyright}{true}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+\section{Feature Descriptor}
+\section{Related Works}
+
+% Bibliography
+\bibliography{sample}
+
+% Full bibliography added automatically for Optics Letters submissions; the following line will simply be ignored if submitting to other journals.
+% Note that this extra page will not count against page length
+\bibliographyfullrefs{sample}
+
+%Manual citation list
+%\begin{thebibliography}{1}
+%\bibitem{Zhang:14}
+%Y.~Zhang, S.~Qiao, L.~Sun, Q.~W. Shi, W.~Huang, %L.~Li, and Z.~Yang,
+ % \enquote{Photoinduced active terahertz metamaterials with nanostructured
+  %vanadium dioxide film deposited by sol-gel method,} Opt. Express \textbf{22},
+  %11070--11078 (2014).
+%\end{thebibliography}
+
+% Please include bios and photos of all authors for aop articles
+\end{document}

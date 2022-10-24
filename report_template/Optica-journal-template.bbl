@@ -1,0 +1,29 @@
+\begin{thebibliography}{1}
+\newcommand{\enquote}[1]{``#1''}
+
+\bibitem{Zhang:14}
+Y.~Zhang, S.~Qiao, L.~Sun, Q.~W. Shi, W.~Huang, L.~Li, and Z.~Yang,
+  {\protect\JournalTitle{Optics Express}} \textbf{22}, 11070 (2014).
+
+\bibitem{OPTICA}
+{Optica Publishing Group}, \enquote{{Optica},} \url{https://opg.optica.org}.
+
+\bibitem{FORSTER2007}
+P.~Forster, V.~Ramaswamy, P.~Artaxo, T.~Bernsten, R.~Betts, D.~Fahey,
+  J.~Haywood, J.~Lean, D.~Lowe, G.~Myhre, J.~Nganga, R.~Prinn, G.~Raga,
+  M.~Schulz, and R.~V. Dorland, \enquote{Changes in atmospheric consituents and
+  in radiative forcing,} in \emph{Climate Change 2007: The Physical Science
+  Basis. Contribution of Working Group 1 to the Fourth assesment report of
+  Intergovernmental Panel on Climate Change,}  S.~Solomon, D.~Qin, M.~Manning,
+  Z.~Chen, M.~Marquis, K.~B. Averyt, M.~Tignor, and H.~L. Miler, eds.
+  (Cambridge University Press, 2007).
+
+\bibitem{testthesis}
+R.~McKay, \enquote{X-ray crystallography,} Ph.D. thesis, Princeton University
+  (1982).
+
+\bibitem{manga_rao_single_2007}
+V.~S.~C. Manga~Rao and S.~Hughes, {\protect\JournalTitle{Physical Review B}}
+  \textbf{75} (2007).
+
+\end{thebibliography}
