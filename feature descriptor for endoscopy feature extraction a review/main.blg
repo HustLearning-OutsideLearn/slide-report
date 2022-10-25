@@ -13,6 +13,10 @@ Repeated entry---line 341 of file ref.bib
  : @article{1336–1342
  :                     ,
 I'm skipping whatever remains of this entry
+Repeated entry---line 449 of file ref.bib
+ : @article{703–715
+ :                   ,
+I'm skipping whatever remains of this entry
 Too many commas in name 1 of "Sergio E. Martinez-Herrera, Yannick Benezeth, Matthieu Boffety, Jean-François Emile, Franck Marzani, Dominique Lamarque, François Goudail1" for entry 0779
 while executing---line 969 of file ieeetr.bst
 Too many commas in name 1 of "Sergio E. Martinez-Herrera, Yannick Benezeth, Matthieu Boffety, Jean-François Emile, Franck Marzani, Dominique Lamarque, François Goudail1" for entry 0779
@@ -77,45 +81,53 @@ Too many commas in name 1 of "Balathasan Giritharan, Xiaohui Yuan, Jianguo Liu, 
 while executing---line 969 of file ieeetr.bst
 Too many commas in name 1 of "Balathasan Giritharan, Xiaohui Yuan, Jianguo Liu, Bill Buckles, JungHwan Oh, Shou Jiang Tang" for entry 703–715
 while executing---line 969 of file ieeetr.bst
-You've used 26 entries,
+Too many commas in name 1 of "SU ZHANG , WEI YANG , YI-LUN WU , RUI YAO , SHI-DAN CHENG" for entry 5212217
+while executing---line 969 of file ieeetr.bst
+Too many commas in name 1 of "SU ZHANG , WEI YANG , YI-LUN WU , RUI YAO , SHI-DAN CHENG" for entry 5212217
+while executing---line 969 of file ieeetr.bst
+Name 1 in "J. Friedman, T. Hastie, and R. Tibshirani" has a comma at the end for entry GentleBoost
+while executing---line 969 of file ieeetr.bst
+Too many commas in name 1 of "Hussam Ali, Muhammad Sharif , Mussarat Yasmin , Mubashir Husain Rehmani" for entry 103733
+while executing---line 969 of file ieeetr.bst
+You've used 30 entries,
             1876 wiz_defined-function locations,
-            597 strings with 7415 characters,
-and the built_in function-call counts, 3538 in all, are:
-= -- 292
-> -- 128
+            616 strings with 8117 characters,
+and the built_in function-call counts, 4080 in all, are:
+= -- 337
+> -- 148
 < -- 0
-+ -- 58
-- -- 32
-* -- 196
-:= -- 603
-add.period$ -- 26
-call.type$ -- 26
-change.case$ -- 26
++ -- 67
+- -- 37
+* -- 226
+:= -- 694
+add.period$ -- 30
+call.type$ -- 30
+change.case$ -- 30
 chr.to.int$ -- 0
-cite$ -- 26
-duplicate$ -- 234
-empty$ -- 443
-format.name$ -- 32
-if$ -- 831
+cite$ -- 30
+duplicate$ -- 270
+empty$ -- 511
+format.name$ -- 37
+if$ -- 959
 int.to.chr$ -- 0
-int.to.str$ -- 26
-missing$ -- 26
-newline$ -- 81
-num.names$ -- 26
-pop$ -- 104
+int.to.str$ -- 30
+missing$ -- 30
+newline$ -- 93
+num.names$ -- 30
+pop$ -- 120
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 31
+skip$ -- 36
 stack$ -- 0
 substring$ -- 0
-swap$ -- 26
+swap$ -- 30
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 26
-width$ -- 28
-write$ -- 210
-(There were 34 error messages)
+while$ -- 30
+width$ -- 32
+write$ -- 242
+(There were 39 error messages)

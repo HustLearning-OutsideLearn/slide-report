@@ -27,7 +27,7 @@ A.~Telea, ``An image inpainting technique based on the fast marching method,''
   {\em Journal of Graphics Tools}, 2004.
 
 \bibitem{0779}
-M.~B. J.-F. E.~F. M. D. L. F.~G. Sergio E. Martinez-Herrera, Yannick~Benezeth,
+M.~B. J.-F. E. F. M. D. L. F.~G. Sergio E. Martinez-Herrera, Yannick~Benezeth,
   ``Identification of precancerous lesions by multispectral gastroendoscopy,''
   {\em SIViP}, 2015.
 
@@ -117,5 +117,24 @@ J.~L. B. B. J. O. S. J.~T. Balathasan~Giritharan, Xiaohui~Yuan, ``Bleeding
 \bibitem{703–715}
 J.~L. B. B. J. O. S. J.~T. Balathasan~Giritharan, Xiaohui~Yuan, ``Circuits and
   systems for video technology,'' {\em IEEE Transactions}, 2001.
+
+\bibitem{5212217}
+Y.-L. W. R. Y. S.-D.~C. SU~ZHANG, WEI~YANG, ``Abnormal region detection in
+  gastroscopic images by combining classifiers on neighboring patches,'' {\em
+  Proceedings of the Eighth International Conference on Machine Learning and
+  Cybernetics}, 2009.
+
+\bibitem{LBP}
+A.~A.~S. Zidonghua~Xuebao, ``Research and perspective on local binary
+  pattern,'' {\em Elsevier}, 2013.
+
+\bibitem{GentleBoost}
+T.~H. J.~Friedman and R.~Tibshirani, ``Additive logistic regression: A
+  statistical view of boosting,'' {\em Annals of Statistics}, 2000.
+
+\bibitem{103733}
+M.~Y. M. H.~R. Hussam~Ali, Muhammad~Sharif, ``A shallow extraction of texture
+  features for classification of abnormal video endoscopy frames,'' {\em
+  Biomedical Signal Processing and Control}, 2022.
 
 \end{thebibliography}
