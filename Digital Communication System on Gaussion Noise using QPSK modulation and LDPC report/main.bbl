@@ -1,0 +1,18 @@
+\begin{thebibliography}{1}
+
+\bibitem{Gal63}
+R.~Gallager, ``Low-density parity-check codes,'' {\em MA: MIT Press}, 1963.
+
+\bibitem{Ber93}
+A.~T.~P. Berrou, C.;~Glavieux, ``Near shannon limit error-corecting coding and
+  decoding,'' {\em Proc. IEEE Intern. Conf. on Communications}, 1993.
+
+\bibitem{Sha48}
+C.~Shannon, ``A mathematical theory of communication.,'' {\em Bell System
+  Technical Journal}, 1948.
+
+\bibitem{Mac96}
+R.~MacKay, D.J.C.;~Neal, ``Near shannon limit performance of low density parity
+  check codes,'' {\em Electron. Letters}, 1996.
+
+\end{thebibliography}
